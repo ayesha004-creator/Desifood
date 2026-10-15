@@ -1,0 +1,7 @@
+{
+  "name": "DesiBite - Pakistani Food Delivery",
+  "description": "Authentic Pakistani and Desi food delivery platform featuring biryanis, karahis, BBQ, handis, and seasonal specialties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
